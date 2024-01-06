@@ -1,0 +1,12 @@
+/* Responsive styles (Optional) */
+@media (max-width: 768px) {
+    .nav-links {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .logo {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+}
