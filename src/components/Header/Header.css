@@ -40,9 +40,13 @@
   text-decoration: none;
   font-size: 1.5em;
   transition: color 0.3s ease;
+  -webkit-transition: color 0.3s ease;
+  -moz-transition: color 0.3s ease;
+  -ms-transition: color 0.3s ease;
+  -o-transition: color 0.3s ease;
 }
 
-.nav-container ul ::after {
+.nav-container ul::after {
     content: '';
     position: absolute;
     width: 100%;
@@ -52,8 +56,12 @@
     left: 0;
     transform: scaleX(0);
     transition: transform 0.3s ease;
-  }
+    -webkit-transition: transform 0.3s ease;
+    -moz-transition: transform 0.3s ease;
+    -ms-transition: transform 0.3s ease;
+    -o-transition: transform 0.3s ease;
+}
 
-.nav-container ul :hover::after {
+.nav-container ul:hover::after {
     transform: scaleX(1);
   }
