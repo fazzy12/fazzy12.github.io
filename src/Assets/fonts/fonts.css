@@ -1,0 +1,55 @@
+/* src/Assets/fonts/fonts.css */
+
+
+/* Exo */
+@font-face {
+    font-family: 'Exo';
+    src: url('./exo/Exo-Light.ttf') format('truetype');
+    font-weight: 300; /* light */
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Exo';
+    src: url('./exo/Exo-Thin.ttf') format('truetype');
+    font-weight: 100; /* thin */
+    font-style: normal;
+  }
+
+/* median san */
+@font-face {
+    font-family: 'MediaSans';
+    src: url('./media-sans/mediasanssemicondensed-light-TRIAL-BF63c7547a7aea2.otf') format('opentype');
+    font-weight: 300; /* light */
+    font-style: italic;
+  }
+
+  @font-face {
+    font-family: 'MediaSans';
+    src: url('./media-sans/mediasanssemicondensed-regular-TRIAL-BF63c75479c7708.otf') format('opentype');
+    font-weight: 400; /* regular */
+    font-style: italic;
+  }
+
+  @font-face {
+    font-family: 'MediaSans';
+    src: url('./media-sans/mediasanssemicondensed-ultra-TRIAL-BF63c75479eb10e.otf') format('opentype');
+    font-weight: 800; /* ultra */
+    font-style: italic;
+  }
+
+
+/* SF Pro */
+@font-face {
+    font-family: 'SFPro';
+    src: url('./sf-pro-display/SFPRODISPLAYREGULAR.OTF') format('opentype');
+    font-weight: 400; /* regular */
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'SFPro';
+    src: url('./sf-pro-display/SFPRODISPLAYULTRALIGHTITALIC.OTF') format('opentype');
+    font-weight: 200; /* ultra-light */
+    font-style: italic;
+  }

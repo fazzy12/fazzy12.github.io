@@ -15,6 +15,12 @@ const Header = () => {
                         <li><a href="#contact">Contact</a></li>
                     </ul>
             </nav>
+            <div className='hero'>
+                <h1 className='hero-text-small'>Hi <span>👋</span> my name is Ifeanyi Kalu</h1>
+                <h1 className='hero-text'>Software Engineer</h1>
+                <p className='hero-description'>My goal is to write maintainable, clean,
+                 and understandable code during development process.</p>
+            </div>
         </header>
     );
 }
