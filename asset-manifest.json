@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fazzy12.github.io/static/css/main.3f14971c.css",
+    "main.js": "/fazzy12.github.io/static/js/main.6f9a0a0f.js",
+    "static/media/img-3.jpg": "/fazzy12.github.io/static/media/img-3.3c319f97855fb009a2ec.jpg",
+    "static/media/img-1.jpg": "/fazzy12.github.io/static/media/img-1.bc4d7b6984e92a0219b8.jpg",
+    "static/media/img-2.jpg": "/fazzy12.github.io/static/media/img-2.2914e989a551a2707516.jpg",
+    "static/media/SFPRODISPLAYREGULAR.OTF": "/fazzy12.github.io/static/media/SFPRODISPLAYREGULAR.d1f5e6e16dd4f75c3950.OTF",
+    "static/media/SFPRODISPLAYULTRALIGHTITALIC.OTF": "/fazzy12.github.io/static/media/SFPRODISPLAYULTRALIGHTITALIC.b90d5d0f41170f11b87e.OTF",
+    "static/media/Exo-Thin.ttf": "/fazzy12.github.io/static/media/Exo-Thin.950b154d62f936daa48d.ttf",
+    "static/media/Exo-Light.ttf": "/fazzy12.github.io/static/media/Exo-Light.0650fb10197fced51faa.ttf",
+    "static/media/devfazzy.png": "/fazzy12.github.io/static/media/devfazzy.7848d33756071df819ce.png",
+    "static/media/mediasanssemicondensed-ultra-TRIAL-BF63c75479eb10e.otf": "/fazzy12.github.io/static/media/mediasanssemicondensed-ultra-TRIAL-BF63c75479eb10e.7fdee9f554b1f96f6e1c.otf",
+    "static/media/mediasanssemicondensed-regular-TRIAL-BF63c75479c7708.otf": "/fazzy12.github.io/static/media/mediasanssemicondensed-regular-TRIAL-BF63c75479c7708.45321d998a422cd710ee.otf",
+    "static/media/mediasanssemicondensed-light-TRIAL-BF63c7547a7aea2.otf": "/fazzy12.github.io/static/media/mediasanssemicondensed-light-TRIAL-BF63c7547a7aea2.45456ed0139c871dbb2c.otf",
+    "index.html": "/fazzy12.github.io/index.html",
+    "main.3f14971c.css.map": "/fazzy12.github.io/static/css/main.3f14971c.css.map",
+    "main.6f9a0a0f.js.map": "/fazzy12.github.io/static/js/main.6f9a0a0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f14971c.css",
+    "static/js/main.6f9a0a0f.js"
+  ]
+}
