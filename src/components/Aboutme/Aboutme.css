@@ -1,0 +1,71 @@
+/* src/components/AboutMe/AboutMe.css */
+
+
+/* Importing variables.css */
+@import "../../../src/Assets/variables.css";
+@import "../../../src/Assets/fonts/fonts.css";
+
+
+.about-me-container {
+    background-color: var(--primary-color);
+}
+
+.about-me-header{
+    font-family: "MediaSans", sans-serif;
+    text-align: center;
+    font-size: 4em;
+    text-transform: uppercase;
+    bottom: 20px;
+}
+
+.about-me-text-image-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 200px;
+    width: 1200px;
+}
+
+.about-me-text-section {
+    padding: 30px;
+    width: 70%;
+}
+
+.about-me-text-section p {
+    font-family: "Exo", sans-serif;
+    font-size: 1.3em;
+    color: var(--text-color);
+    font-weight: bold;
+    width: 80%;
+    line-height: 2em;
+    letter-spacing: 1px;
+}
+
+.about-me-image-section {
+    flex: 1;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+
+.about-me-image {
+    max-width: 60%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 5px var(--text-color);
+    transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+.about-me-image:hover {
+    transform: scale(1.1);
+    z-index: 2;
+}
+
+.about-me-image-section:hover .about-me-image {
+    filter: brightness(0.7);
+}
+
+.about-me-image-section:hover .about-me-image:hover {
+    filter: brightness(1);
+}
