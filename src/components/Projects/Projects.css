@@ -82,6 +82,7 @@
     background-color: var(--primary-color);
     padding: 5px 10px;
     border-radius: 5px;
+    margin-top: 5px;
     width: 50%;
     text-align: center;
     transition: background-color 0.3s ease, color 0.3s ease;
@@ -97,6 +98,6 @@
 
 .project-tech {
     font-size: 1em;
-    margin-top: 10px;
-    color: #ffffff;
+    margin-top: 2px;
+    color: var(--primary-color);
 }
