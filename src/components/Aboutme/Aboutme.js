@@ -56,9 +56,9 @@ const Aboutme = () => {
                     </div>
                 </div>
                 <div className='about-me-image-section'>
-                    <img src={img1} alt='About Me 1' className='about-me-image' />
-                    <img src={img2} alt='About Me 2' className='about-me-image' />
-                    <img src={img3} alt='About Me 3' className='about-me-image' />
+                    <img src={img1} alt='About Me 1' className='about-me-image' loading="lazy"/>
+                    <img src={img2} alt='About Me 2' className='about-me-image' loading="lazy"/>
+                    <img src={img3} alt='About Me 3' className='about-me-image' loading="lazy"/>
                 </div>
             </div>
         </div>

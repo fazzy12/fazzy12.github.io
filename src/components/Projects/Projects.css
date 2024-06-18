@@ -96,8 +96,17 @@
     cursor: pointer;
 }
 
-.project-tech {
+
+.tech-stack {
+    margin-top: 10px;
+}
+
+.tech-keyword {
     font-size: 1em;
-    margin-top: 2px;
+    display: inline-block;
+    margin: 5px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
     color: var(--primary-color);
 }
