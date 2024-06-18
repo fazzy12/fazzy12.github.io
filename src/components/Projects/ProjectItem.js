@@ -1,12 +1,13 @@
-// src/components/Projects/ProjectItem.js
-import React, { useEffect, useRef, useState } from 'react';
-import './Projects.css';
+import React, { useState, useRef, useEffect } from 'react';
+import './ProjectItem.css';
 
 const ProjectItem = ({ projectTitle, image, projectDescription, githubLink, techStack }) => {
     const [isInView, setIsInView] = useState(false);
     const ref = useRef();
 
     useEffect(() => {
+        const currentRef = ref.current;
+
         const observer = new IntersectionObserver(
             (entries) => {
                 entries.forEach((entry) => {
@@ -16,18 +17,16 @@ const ProjectItem = ({ projectTitle, image, projectDescription, githubLink, tech
                     }
                 });
             },
-            {
-                threshold: 0.1,
-            }
+            { threshold: 0.1 }
         );
 
-        if (ref.current) {
-            observer.observe(ref.current);
+        if (currentRef) {
+            observer.observe(currentRef);
         }
 
         return () => {
-            if (ref.current) {
-                observer.unobserve(ref.current);
+            if (currentRef) {
+                observer.unobserve(currentRef);
             }
         };
     }, []);
@@ -40,11 +39,9 @@ const ProjectItem = ({ projectTitle, image, projectDescription, githubLink, tech
     return (
         <div className="project" ref={ref} style={{ backgroundImage: isInView ? `url(${image})` : 'none' }}>
             <div className="project-overlay">
-                <h3 className='project-title'>{projectTitle}</h3>
-                <p className='project-description'>{projectDescription}</p>
-                <a href={githubLink} target="_blank" rel="noopener noreferrer" className="project-link">
-                    View code &rarr;
-                </a>
+                <h3 className="projectTitle">{projectTitle}</h3>
+                <p className="project-description">{projectDescription}</p>
+                <a href={githubLink} target="_blank" rel="noopener noreferrer" className="project-link">View code &rarr;</a>
                 <div className="tech-stack">
                     {techStack.split(', ').map((tech, index) => (
                         <span key={index} className="tech-keyword" style={{ backgroundColor: getRandomColor() }}>
