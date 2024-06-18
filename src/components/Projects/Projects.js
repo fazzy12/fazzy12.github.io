@@ -3,14 +3,14 @@ import ProjectItem from './ProjectItem';
 import './Projects.css';
 
 
-import img1 from '../../Assets/img-1.jpg'
-import img2 from '../../Assets/img-2.jpg'
-import img3 from '../../Assets/img-3.jpg'
-import img4 from '../../Assets/img-4.jpg'
-import img5 from '../../Assets/img-5.jpg'
-import img6 from '../../Assets/img-6.jpg'
-import img7 from '../../Assets/img-7.jpg'
-import img8 from '../../Assets/img-8.jpg'
+import img1 from '../../Assets/img-1.webp'
+import img2 from '../../Assets/img-2.webp'
+import img3 from '../../Assets/img-3.webp'
+import img4 from '../../Assets/img-4.webp'
+import img5 from '../../Assets/img-5.webp'
+import img6 from '../../Assets/img-6.webp'
+import img7 from '../../Assets/img-7.webp'
+import img8 from '../../Assets/img-8.webp'
 
 const ProjectSection = () => {
     return (

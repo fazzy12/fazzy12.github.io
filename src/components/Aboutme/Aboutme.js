@@ -4,9 +4,9 @@ import SubHeader from '../SubHeader/SubHeader';
 import DevIcon from "devicon-react-svg";
 import './Aboutme.css';
 
-import img1 from '../../Assets/img-1.jpg';
-import img2 from '../../Assets/img-2.jpg';
-import img3 from '../../Assets/img-3.jpg';
+import img1 from '../../Assets/img-1.webp';
+import img2 from '../../Assets/img-2.webp';
+import img3 from '../../Assets/img-3.webp';
 
 const Aboutme = () => {
     const techs = [
