@@ -1,11 +1,16 @@
 {
   "files": {
-    "main.css": "/fazzy12.github.io/static/css/main.3f14971c.css",
-    "main.js": "/fazzy12.github.io/static/js/main.6f9a0a0f.js",
-    "static/media/img-3.jpg": "/fazzy12.github.io/static/media/img-3.3c319f97855fb009a2ec.jpg",
-    "static/media/img-1.jpg": "/fazzy12.github.io/static/media/img-1.bc4d7b6984e92a0219b8.jpg",
-    "static/media/img-2.jpg": "/fazzy12.github.io/static/media/img-2.2914e989a551a2707516.jpg",
+    "main.css": "/fazzy12.github.io/static/css/main.75789267.css",
+    "main.js": "/fazzy12.github.io/static/js/main.67253a89.js",
+    "static/media/img-3.webp": "/fazzy12.github.io/static/media/img-3.2df8254a0947ca8e0422.webp",
+    "static/media/img-6.webp": "/fazzy12.github.io/static/media/img-6.2df8254a0947ca8e0422.webp",
+    "static/media/img-8.webp": "/fazzy12.github.io/static/media/img-8.2df8254a0947ca8e0422.webp",
+    "static/media/img-1.webp": "/fazzy12.github.io/static/media/img-1.ed5e0578ac1404ee94f8.webp",
+    "static/media/img-4.webp": "/fazzy12.github.io/static/media/img-4.ed5e0578ac1404ee94f8.webp",
     "static/media/SFPRODISPLAYREGULAR.OTF": "/fazzy12.github.io/static/media/SFPRODISPLAYREGULAR.d1f5e6e16dd4f75c3950.OTF",
+    "static/media/img-2.webp": "/fazzy12.github.io/static/media/img-2.461d9624b5032d72a52a.webp",
+    "static/media/img-5.webp": "/fazzy12.github.io/static/media/img-5.461d9624b5032d72a52a.webp",
+    "static/media/img-7.webp": "/fazzy12.github.io/static/media/img-7.461d9624b5032d72a52a.webp",
     "static/media/SFPRODISPLAYULTRALIGHTITALIC.OTF": "/fazzy12.github.io/static/media/SFPRODISPLAYULTRALIGHTITALIC.b90d5d0f41170f11b87e.OTF",
     "static/media/Exo-Thin.ttf": "/fazzy12.github.io/static/media/Exo-Thin.950b154d62f936daa48d.ttf",
     "static/media/Exo-Light.ttf": "/fazzy12.github.io/static/media/Exo-Light.0650fb10197fced51faa.ttf",
@@ -14,11 +19,11 @@
     "static/media/mediasanssemicondensed-regular-TRIAL-BF63c75479c7708.otf": "/fazzy12.github.io/static/media/mediasanssemicondensed-regular-TRIAL-BF63c75479c7708.45321d998a422cd710ee.otf",
     "static/media/mediasanssemicondensed-light-TRIAL-BF63c7547a7aea2.otf": "/fazzy12.github.io/static/media/mediasanssemicondensed-light-TRIAL-BF63c7547a7aea2.45456ed0139c871dbb2c.otf",
     "index.html": "/fazzy12.github.io/index.html",
-    "main.3f14971c.css.map": "/fazzy12.github.io/static/css/main.3f14971c.css.map",
-    "main.6f9a0a0f.js.map": "/fazzy12.github.io/static/js/main.6f9a0a0f.js.map"
+    "main.75789267.css.map": "/fazzy12.github.io/static/css/main.75789267.css.map",
+    "main.67253a89.js.map": "/fazzy12.github.io/static/js/main.67253a89.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f14971c.css",
-    "static/js/main.6f9a0a0f.js"
+    "static/css/main.75789267.css",
+    "static/js/main.67253a89.js"
   ]
 }
