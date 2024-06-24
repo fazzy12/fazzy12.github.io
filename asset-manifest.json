@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/public/index.js/static/css/main.ebb16ad7.css",
-    "main.js": "/public/index.js/static/js/main.761ecc53.js",
-    "static/media/img-3.webp": "/public/index.js/static/media/img-3.2df8254a0947ca8e0422.webp",
-    "static/media/img-6.webp": "/public/index.js/static/media/img-6.2df8254a0947ca8e0422.webp",
-    "static/media/img-8.webp": "/public/index.js/static/media/img-8.2df8254a0947ca8e0422.webp",
-    "static/media/img-1.webp": "/public/index.js/static/media/img-1.ed5e0578ac1404ee94f8.webp",
-    "static/media/img-4.webp": "/public/index.js/static/media/img-4.ed5e0578ac1404ee94f8.webp",
-    "static/media/SFPRODISPLAYREGULAR.OTF": "/public/index.js/static/media/SFPRODISPLAYREGULAR.d1f5e6e16dd4f75c3950.OTF",
-    "static/media/img-2.webp": "/public/index.js/static/media/img-2.461d9624b5032d72a52a.webp",
-    "static/media/img-5.webp": "/public/index.js/static/media/img-5.461d9624b5032d72a52a.webp",
-    "static/media/img-7.webp": "/public/index.js/static/media/img-7.461d9624b5032d72a52a.webp",
-    "static/media/SFPRODISPLAYULTRALIGHTITALIC.OTF": "/public/index.js/static/media/SFPRODISPLAYULTRALIGHTITALIC.b90d5d0f41170f11b87e.OTF",
-    "static/media/Exo-Thin.ttf": "/public/index.js/static/media/Exo-Thin.950b154d62f936daa48d.ttf",
-    "static/media/Exo-Light.ttf": "/public/index.js/static/media/Exo-Light.0650fb10197fced51faa.ttf",
-    "static/media/devfazzy.png": "/public/index.js/static/media/devfazzy.7848d33756071df819ce.png",
-    "static/media/mediasanssemicondensed-ultra-TRIAL-BF63c75479eb10e.otf": "/public/index.js/static/media/mediasanssemicondensed-ultra-TRIAL-BF63c75479eb10e.7fdee9f554b1f96f6e1c.otf",
-    "static/media/mediasanssemicondensed-regular-TRIAL-BF63c75479c7708.otf": "/public/index.js/static/media/mediasanssemicondensed-regular-TRIAL-BF63c75479c7708.45321d998a422cd710ee.otf",
-    "static/media/mediasanssemicondensed-light-TRIAL-BF63c7547a7aea2.otf": "/public/index.js/static/media/mediasanssemicondensed-light-TRIAL-BF63c7547a7aea2.45456ed0139c871dbb2c.otf",
-    "index.html": "/public/index.js/index.html",
-    "main.ebb16ad7.css.map": "/public/index.js/static/css/main.ebb16ad7.css.map",
-    "main.761ecc53.js.map": "/public/index.js/static/js/main.761ecc53.js.map"
+    "main.css": "/static/css/main.b8ad8b04.css",
+    "main.js": "/static/js/main.f03b0f8d.js",
+    "static/media/img-3.webp": "/static/media/img-3.2df8254a0947ca8e0422.webp",
+    "static/media/img-6.webp": "/static/media/img-6.2df8254a0947ca8e0422.webp",
+    "static/media/img-8.webp": "/static/media/img-8.2df8254a0947ca8e0422.webp",
+    "static/media/img-1.webp": "/static/media/img-1.ed5e0578ac1404ee94f8.webp",
+    "static/media/img-4.webp": "/static/media/img-4.ed5e0578ac1404ee94f8.webp",
+    "static/media/SFPRODISPLAYREGULAR.OTF": "/static/media/SFPRODISPLAYREGULAR.d1f5e6e16dd4f75c3950.OTF",
+    "static/media/img-2.webp": "/static/media/img-2.461d9624b5032d72a52a.webp",
+    "static/media/img-5.webp": "/static/media/img-5.461d9624b5032d72a52a.webp",
+    "static/media/img-7.webp": "/static/media/img-7.461d9624b5032d72a52a.webp",
+    "static/media/SFPRODISPLAYULTRALIGHTITALIC.OTF": "/static/media/SFPRODISPLAYULTRALIGHTITALIC.b90d5d0f41170f11b87e.OTF",
+    "static/media/Exo-Thin.ttf": "/static/media/Exo-Thin.950b154d62f936daa48d.ttf",
+    "static/media/Exo-Light.ttf": "/static/media/Exo-Light.0650fb10197fced51faa.ttf",
+    "static/media/devfazzy.png": "/static/media/devfazzy.7848d33756071df819ce.png",
+    "static/media/mediasanssemicondensed-ultra-TRIAL-BF63c75479eb10e.otf": "/static/media/mediasanssemicondensed-ultra-TRIAL-BF63c75479eb10e.7fdee9f554b1f96f6e1c.otf",
+    "static/media/mediasanssemicondensed-regular-TRIAL-BF63c75479c7708.otf": "/static/media/mediasanssemicondensed-regular-TRIAL-BF63c75479c7708.45321d998a422cd710ee.otf",
+    "static/media/mediasanssemicondensed-light-TRIAL-BF63c7547a7aea2.otf": "/static/media/mediasanssemicondensed-light-TRIAL-BF63c7547a7aea2.45456ed0139c871dbb2c.otf",
+    "index.html": "/index.html",
+    "main.b8ad8b04.css.map": "/static/css/main.b8ad8b04.css.map",
+    "main.f03b0f8d.js.map": "/static/js/main.f03b0f8d.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebb16ad7.css",
-    "static/js/main.761ecc53.js"
+    "static/css/main.b8ad8b04.css",
+    "static/js/main.f03b0f8d.js"
   ]
 }
